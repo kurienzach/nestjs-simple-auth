@@ -1,6 +1,6 @@
 {
   "name": "nestjs-simple-auth",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Simple & Extensible Auth for NestJS",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
